@@ -46,9 +46,9 @@ export default function Login() {
            type='reset'
            content="Login"
            p="Ainda não possui conta?"
-           span="Cadastre-se!"
+           span="Entre em contato"
            target="_blank"
-           link="https://github.com/MrSampaio/register-php"
+           link="https://github.com/ErickPrado101"
           />
 
         </form>
